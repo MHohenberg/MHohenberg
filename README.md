@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MHohenberg
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in aerospace, simulation and task management
+- 🌱 I’m currently learning how to write better documentation
 - 📫 an email to martin.hohenberg [a] gmail.com is always appreciated
 
 <!---
